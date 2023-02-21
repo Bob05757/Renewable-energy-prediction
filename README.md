@@ -1,4 +1,4 @@
-# Rewable-energy-prediction
+# Renewable-energy-prediction
 1. The innovation of this competition is to propose a labeling technology (clustering), which can refer to our published paper (A novel short-term load forecasting framework based on time-series
 clustering and early classification algorithm, https://doi.org/10.1016/j.enbuild.2021.111375)
 
