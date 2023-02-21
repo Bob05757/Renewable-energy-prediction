@@ -2,7 +2,7 @@
 1. The innovation of this competition is to propose a labeling technology (clustering), which can refer to our published paper (A novel short-term load forecasting framework based on time-series
 clustering and early classification algorithm, https://doi.org/10.1016/j.enbuild.2021.111375)
 
-2. According to the existing characteristic variables (temperature, wind speed, etc.), first predict the label (0, 1) of the daily solar power generation load, 0 represents low power generation, and 1 represents high power generation. This label is used as the input feature variable when predicting.
+2. According to the existing characteristic variables (temperature, wind speed, etc.), first predict the label (0, 1) of the daily solar power generation load, 1 represents low power generation, and 0 represents high power generation. This label is used as the input feature variable when predicting.
 
 3. At the same time, feature engineering was done, including the shift of feature variables, adding more dimensional feature variables
 
